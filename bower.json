@@ -1,0 +1,25 @@
+{
+  "name": "Firebase",
+  "authors": [
+    "tresdos3 <tresdosasd@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularfire": "^2.0.2",
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "ng-simple-google-maps": "*",
+    "angular-google-maps": "^2.4.0"
+  }
+}
